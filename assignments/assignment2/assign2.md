@@ -35,7 +35,7 @@ The commands to see you id is using id or you can do less /etc/passwd to see all
 
 ## Group Tasks:
 **12.** ![alt text](image-6.png)
-I did the **grep ubuntu /etc/group** commands and it did pop up then I did the all users command andd didn't see it but I put the whole list up in the image above just in case I missed it.
+I did the **grep ubuntu /etc/group** commands and it didn't pop up then I did the all users command andd didn't see it but I put the whole list up in the image above just in case I missed it.
 
 **13.** ![alt text](image-7.png)
 By adding sally to the sudo group, it gave her sudo access letting her now add users.
