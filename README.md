@@ -7,3 +7,5 @@ This is a repostitory to hold **all** my Grad Cybersecurity Work. This will be l
 ## Table of Conext
 
 ### [Assignment 2](assignments/assignment2/assign2.md)
+
+### [Assignment 3](assignments/assignment3/assign3.md)
